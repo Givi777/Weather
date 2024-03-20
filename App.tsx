@@ -90,21 +90,6 @@ function App(): React.JSX.Element {
 }
 
 const styles = StyleSheet.create({
-<<<<<<< HEAD
-=======
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-  },
-  sectionDescription: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
->>>>>>> 3c39990650979fe4b47b4fff98958c2e5ab1a342
 
 });
 
